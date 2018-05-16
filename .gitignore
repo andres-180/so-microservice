@@ -1,0 +1,3 @@
+#python generate files
+__pycache__
+*.pyc
