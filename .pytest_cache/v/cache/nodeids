@@ -1,4 +1,6 @@
 [
   "tests/test_stats.py::test_get_cpu_percent",
+  "tests/test_stats.py::test_get_available_memory",
+  "tests/test_stats.py::test_get_disk_space",
   "tests/test_stats.py::test_dummy"
 ]

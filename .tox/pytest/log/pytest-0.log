@@ -1,0 +1,9 @@
+actionid: pytest
+msg: getenv
+cmdargs: ['/home/flaskdev/.virtualenvs/op-stats/bin/python3.4', '-m', 'virtualenv', '--python', '/home/flaskdev/.virtualenvs/op-stats/bin/python3', 'pytest']
+
+Using real prefix '/usr'
+New python executable in /home/flaskdev/so-microservice/.tox/pytest/bin/python3
+Also creating executable in /home/flaskdev/so-microservice/.tox/pytest/bin/python
+Installing setuptools, pip, wheel...done.
+Running virtualenv with interpreter /home/flaskdev/.virtualenvs/op-stats/bin/python3
